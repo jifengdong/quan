@@ -58,7 +58,7 @@ if (url.indexOf(checkvip2) != -1) {
 
 if (url.indexOf(vipinfo) != -1) {
 	obj["nickName"] = "爱熬夜的好心人";
-   obj["vipLevel"] = 3;
+   obj["vipLevel"] = 99;
    obj["vipEndTime"] = "2222-05-21";
    obj["cartoonVip"] = true;
 	body = JSON.stringify(obj);
