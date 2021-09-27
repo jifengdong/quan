@@ -12,6 +12,6 @@ obj.data = {
     "create_time": 1581871195,
     "update_time": 1581871195,
     "remark": "",
-    "free_search": 0
+    "free_search": 999
 }
 $done({body: JSON.stringify(obj)});
